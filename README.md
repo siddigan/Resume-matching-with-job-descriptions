@@ -2,7 +2,7 @@
 README
 
 
-This repository contains code for a resume matching system using a language model. The system works by first extracting the text from the resume PDF file and then preprocessing the text. The preprocessed text is then used to generate embeddings using a language model. The embeddings for the resume are then compared to the embeddings for the job description using cosine similarity. The resumes with the highest cosine similarity are then returned as the top matches.
+This repository contains code for a resume matching system using Bert LM. The system works by first extracting the text from the resume PDF file and then preprocessing the text. The preprocessed text is then used to generate embeddings. The embeddings for the resume are then compared to the embeddings for the job description using cosine similarity. The resumes with the highest cosine similarity are then returned as the top matches.
 
 
 
